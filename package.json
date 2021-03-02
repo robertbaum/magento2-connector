@@ -8,6 +8,7 @@
       "patterns": [
         "src"
       ],
+      "ignore": "*/index.js",
       "extensions": "js,ts",
       "quiet": false
     }
